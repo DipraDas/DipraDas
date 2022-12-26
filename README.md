@@ -15,6 +15,7 @@
 <h3>Contact Me:</h3>
 
 [<img style="width:35px" src="facebook.png"/>](https://www.facebook.com/dipra.das.5/)
+[<img style="width:35px" src="linkedin.png"/>](www.linkedin.com/in/dipra-das5940)
 
 <h3>Front End:</h3>
 
