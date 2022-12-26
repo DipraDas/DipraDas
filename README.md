@@ -12,9 +12,15 @@
 
 - 📞 Call me +880 187670 4498
 
+[<img style="width:25px" src="facebook.png"/>](https://www.facebook.com/dipra.das.5/)
+
 <h3>Front End:</h3>
 
+<p style="font-size:25px">
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,tailwind,javascript,react,typescript&theme=dark)](https://skills.thijs.gg)
+
+</p>
 
 <h3>Back End:</h3>
 
