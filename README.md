@@ -22,7 +22,7 @@
 
 <p style="font-size:25px">
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,typescript,redux&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,vue,typescript,redux&theme=dark)](https://skills.thijs.gg)
 
 </p>
 
