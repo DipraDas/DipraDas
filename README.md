@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Dipra Das. A junior web developer from Bangladesh.</h1>
 
-- 🔭 I’m currently working on **Vue**
+- 🔭 I’m currently working on **ReactJs**
 
 - 👨‍💻 All of my projects are available at [Protfolio](https://illustrious-daifuku-188057.netlify.app/)
 
