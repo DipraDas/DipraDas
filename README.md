@@ -20,13 +20,13 @@
 
 <p style="font-size:25px">
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,native,next,vue,typescript,redux&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,next,vue,typescript,redux&theme=dark)](https://skills.thijs.gg)
 
 </p>
 
 <h3>Back End:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,nodejs,express,mongodb,firebase&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,nodejs,express,mongodb,mongoose,firebase&theme=dark)](https://skills.thijs.gg)
 
 <h3>Tools:</h3>
 
