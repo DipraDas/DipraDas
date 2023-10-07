@@ -26,7 +26,7 @@
 
 <h3>Back End:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,mongodb,firebase&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,nodejs,express,mongodb,firebase&theme=dark)](https://skills.thijs.gg)
 
 <h3>Tools:</h3>
 
