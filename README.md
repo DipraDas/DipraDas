@@ -30,7 +30,7 @@
 
 <h3>Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,atom,git,github,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,atom,git,github,figma,photoshop&theme=dark)](https://skills.thijs.gg)
 
 
 
