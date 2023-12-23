@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Dipra Das. A junior software engineer from Bangladesh.</h1>
+<h1 align="left">Hi 👋, I'm Dipra Das. Junior Software Engineer at Cloudone</h1>
 
 - 🔭 I’m currently working on **ReactJs**
 
