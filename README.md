@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Dipra Das. Junior Software Engineer at Cloudone</h1>
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **App Development**
 
 - 👨‍💻 All of my projects are available at [Protfolio](https://illustrious-daifuku-188057.netlify.app/)
 
