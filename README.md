@@ -28,6 +28,7 @@
 <p style="font-size:25px">
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,bootstrap,tailwind,javascript,react,next,vue,typescript,redux&theme=dark)](https://skills.thijs.gg)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 </p>
 
