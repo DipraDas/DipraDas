@@ -36,10 +36,12 @@
 <h3>Back End:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,nodejs,express,mongodb,postgres,prisma,firebase&theme=dark)](https://skills.thijs.gg)
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 <h3>Tools:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=vscode,atom,git,github,figma,photoshop,illustrator&theme=dark)](https://skills.thijs.gg)
+<img src="" /> <img src="" /> <img src="" /> <img src="" /> <img src="" />   <img src="" /><img src="" /> 
 
 
 
