@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **App Development**
 
-- 👨‍💻 All of my projects are available at [Protfolio](https://illustrious-daifuku-188057.netlify.app/)
+- 👨‍💻 All of my projects are available at [Protfolio](https://dipradas.netlify.app/)
 
 - 📫 How to reach me **dipradas5940@gmail.com**
 
