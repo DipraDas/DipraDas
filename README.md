@@ -1,4 +1,4 @@
-![alt text]([https://i.ibb.co/sVBsbHT/Black-Modern-Personal-Linked-In-Banner.png](https://i.ibb.co/x6pdrqZ/github-header.png))
+![alt text](https://i.ibb.co/x6pdrqZ/github-header.png)
 
 <h1 align="left">Hi 👋, I'm Dipra Das. Junior Software Engineer at Cloudone</h1>
 
