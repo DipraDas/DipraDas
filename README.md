@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header]([./github-header.png](https://i.ibb.co/x6pdrqZ/github-header.png))
 
 <h1 align="left">Hi 👋, I'm Dipra Das. Junior Software Engineer at Cloudone</h1>
 
