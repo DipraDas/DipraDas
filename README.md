@@ -1,3 +1,5 @@
+![Header](./github-header.png)
+
 <h1 align="left">Hi 👋, I'm Dipra Das. Junior Software Engineer at Cloudone</h1>
 
 - 🔭 I’m currently working on **App Development**
