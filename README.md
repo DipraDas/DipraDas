@@ -1,7 +1,7 @@
 ![alt text](https://i.ibb.co/P1gRTXn/Git-banner.jpg)
 
-<h1 align="left">Hi 👋, I'm Dipra Das. Software Engineer</h1>
-
+<h1 align="left">Hi 👋, I'm Dipra Das. Software & Cloud Engineer</h1>
+ 
 - 🔭 I’m currently working on **Cloud Engineering & AWS**
 - ☁️ Passionate about **Cloud, DevOps & scalable system design**
 - 👨‍💻 All of my projects are available at [Portfolio](https://dipradas.com/)
